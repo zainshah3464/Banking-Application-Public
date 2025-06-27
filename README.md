@@ -1,12 +1,14 @@
 # 💳 Real-Time Banking Application (C++ + Python)
 
+# 📸 Screenshot
+![Screenshot](Screenshot.jpg)
+
 🎖️ **🏆 3rd Place - STEAM National Exhibition 2025**  
 🎖️ **🥇 1st Place - Regional STEAM Festival 2025**
 
 A powerful banking application written in C++ with real-time features, terminal-based UI, and voice assistant integration using Python.
 
 ---
-
 ## 💡 Key Features
 
 -✅ 3,000+ lines of code — clean, modular, and powerful
