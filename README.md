@@ -67,4 +67,5 @@ g++ main.cpp -o bankApp
 
 ### 👤 Author
 **Syed Zain Ali Shah**
-GitHub @zainshah3464
+
+- *GitHub @zainshah3464*
