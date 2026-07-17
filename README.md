@@ -37,13 +37,14 @@ A terminal‑based banking system written in C++ with real‑time features, Pyth
 ---
 
 ## 📁 Project Structure
-`
+```
 ├── main.cpp # Entry point
 ├── whatsapp_sender.py # SMS / WhatsApp alerts
 ├── bank.txt # Sample account data
 ├── sound/ # Audio feedbacks
 ├── BG-Image.png # Background image
-└── README.md`
+└── README.md
+```
 
 ---
 
@@ -66,4 +67,4 @@ g++ main.cpp -o bankApp
 
 ### 👤 Author
 **Syed Zain Ali Shah**
-*GitHub @zainshah3464*
+GitHub @zainshah3464
